@@ -1,1 +1,9 @@
-this is gitgnore file
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Editor settings
+.vscode/
